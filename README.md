@@ -1,2 +1,2 @@
-# battleship-game
-A simple battleship game using SDL2
+# Simple project usind SDL2
+A simple project using SDL2
